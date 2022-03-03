@@ -1,0 +1,4 @@
+datafiles/
+datefiles/*
+__pycache__
+.DS_Store
